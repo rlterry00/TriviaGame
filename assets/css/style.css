@@ -1,0 +1,40 @@
+ body {
+
+	background: url(../images/swaggapuss.jpg);
+
+	
+
+	
+
+}
+
+.content {
+
+	padding-left: 20px;
+
+	color: white;
+
+	background: rgba(0, 0, 0, 0.5);
+
+
+}
+
+.answersOne {
+
+	padding-bottom: 10px;
+}
+
+.answersTwo {
+
+	padding-bottom: 10px;
+}
+
+.answersThree {
+
+	padding-bottom: 10px;
+}
+
+
+
+
+
